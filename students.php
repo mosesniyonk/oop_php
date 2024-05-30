@@ -185,7 +185,7 @@ footer {
 <body>
     <header>
         <div class="logo">
-            <img src="/assets/logo.png" alt="IPRC Logo" style="border-radius: 50%;">
+            <img src="./assets/logo.png" alt="IPRC Logo" style="border-radius: 50%;">
         </div>
         <div class="title">
             <h1>STUDENTS INFORMATION SYSTEM</h1>

@@ -130,7 +130,7 @@ include 'auth_check.php';
 <body>
     <header>
         <div class="logo">
-            <img src="/assets/logo.png" alt="IPRC Logo">
+            <img src="./assets/logo.png" alt="IPRC Logo">
         </div>
         <div class="title">
             <h1>STUDENTS INFORMATION SYSTEM</h1>
